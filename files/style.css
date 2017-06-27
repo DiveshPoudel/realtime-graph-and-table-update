@@ -1,0 +1,28 @@
+*{
+	padding:0;
+	margin:0;
+	border:0;
+}
+
+body{
+	background:lightBlue;
+}
+
+#container{
+	width:30%;
+	background:white;
+	margin: 0 auto;
+	padding:20px;
+	float:left;
+	
+}
+
+#tick{
+	width:60%;
+	height:200px;
+	scroll{
+	height: 350px;
+	width :400px
+}
+}
+
